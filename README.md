@@ -1,2 +1,2 @@
 # Temperature-Converter
-Internship bu Bharat Intern
+Internship by Bharat Intern
