@@ -1,7 +1,3 @@
-Great! Here's an updated version of the README file with your GitHub repository link included. You can add this to your "Temperature-Converter" repository on GitHub:
-
----
-
 # Temperature Converter Website
 
 ## Description
